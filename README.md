@@ -1,2 +1,2 @@
 # CoDesign_FPGA_AES
-CoDesign FPGA AES implementation on a Zed board project
+CoDesign FPGA AES implementation on a Z board project
